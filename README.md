@@ -272,6 +272,8 @@ For information about the governance of the Node.js project, see
   **Ash Cripps** <<acripps@redhat.com>>
 * [Ayase-252](https://github.com/Ayase-252) -
   **Qingyu Deng** <<i@ayase-lab.com>>
+ *[harshad.n](https://github.com/harshad4321)-
+  **harshadd.n**<<harshad.n4321@gmail.com>>
 * [bcoe](https://github.com/bcoe) -
   **Ben Coe** <<bencoe@gmail.com>> (he/him)
 * [bengl](https://github.com/bengl) -
