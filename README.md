@@ -258,8 +258,7 @@ For information about the governance of the Node.js project, see
 
 ### Collaborators
 
-* [harshad.n](https://github.com/harshad4321)-
-  **harshad.n**<<harshad.n4321@gmail.com>>(he/him)
+
 * [addaleax](https://github.com/addaleax) -
   **Anna Henningsen** <<anna@addaleax.net>> (she/her)
 * [aduh95](https://github.com/aduh95) -
@@ -332,6 +331,8 @@ For information about the governance of the Node.js project, see
   **Guy Bedford** <<guybedford@gmail.com>> (he/him)
 * [HarshithaKP](https://github.com/HarshithaKP) -
   **Harshitha K P** <<harshitha014@gmail.com>> (she/her)
+* [harshad.n](https://github.com/harshad4321)-
+  **harshad.n**<<harshad.n4321@gmail.com>>(he/him)
 * [himself65](https://github.com/himself65) -
   **Zeyu Yang** <<himself65@outlook.com>> (he/him)
 * [hiroppy](https://github.com/hiroppy) -
